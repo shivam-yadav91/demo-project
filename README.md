@@ -1,2 +1,2 @@
 # demo-project
-my first project
+my first git repo..
